@@ -1,0 +1,19 @@
+{
+  "name": "grocery-store-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omG11111/Grocery-Store-Server.git"
+  },
+  "author": "mk-products",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omG11111/Grocery-Store-Server/issues"
+  },
+  "homepage": "https://github.com/omG11111/Grocery-Store-Server#readme"
+}
